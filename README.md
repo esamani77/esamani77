@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Samani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Memoryto](memoryto.com)
+- 🔭 I’m currently working on [[Memoryto](https://memoryto.com/en-us)]
 
 - 🌱 I’m currently learning **ReactNative and extension**
 
