@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactNative and extension**
 
-- 📝My hobby project [https://v0-next-project-requirements-two.vercel.app/](https://v0-next-project-requirements-two.vercel.app/)
+- 📝My hobby project [https://www.aitranslatebot.top/](https://www.aitranslatebot.top/)
 
 - 💬 Ask me about **react, next, vue, nuxt**
 
